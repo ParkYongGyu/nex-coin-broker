@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+	<instance id="1" ip="127.0.0.1" port="65111"/>
+	<instance id="2" ip="127.0.0.1" port="65112"/>
+	<instance id="3" ip="127.0.0.1" port="65113"/>
+</servers>
